@@ -7,5 +7,3 @@ Use the [scalation-docker](https://hub.docker.com/r/vinayawsm/scalation-docker/)
 Pull the repository using `docker pull vinayawsm/scalation-docker`
 
 Run the container using `docker run -it vinayawsm/scalation-docker`
-
-es
